@@ -110,29 +110,4 @@ certifications/
 - [ ] Contribute to open-source AI projects
 - [ ] Earn internationally recognized AI/ML certifications
 
----
 
-## 🔗 Links
-
-- 🌐 [PIAIC Official Website](https://www.piaic.org)
-- 💼 [My LinkedIn Profile](https://www.linkedin.com/in/maviya-noor)
-- 🐙 [My GitHub Profile](https://github.com/maviya-noor)
-
----
-
-## 📁 Repository Structure
-
-```
-certifications/
-│
-├── README.md                  # This file
-└── certificates/
-    └── PIAIC_AgenticAI_Level1_MaviyaNoor.pdf
-```
-
----
-
-<p align="center">
-  <i>"The expert in anything was once a beginner. Keep learning, keep growing."</i><br><br>
-  ⭐ Star this repo if you find it inspiring!
-</p>
